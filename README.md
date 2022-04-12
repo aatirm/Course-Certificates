@@ -3,5 +3,5 @@ This is a repository to showcase the course certificates obtained for python, ju
 
 **Certificates**:
 1. Intro to Python
-2. Intro to Jupyter notebooks
-3. Intro to NumPy
+2. Introducing Jupyter
+3. NumPy Essentials training: 1 FOundations of NumPy
